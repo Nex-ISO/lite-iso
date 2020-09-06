@@ -2,6 +2,7 @@
 
 #### Disclaimer
 This repository includes Lite ISO's that I have made that you might want to check out. <br />
+
 **It is NOT my reponsibiliy if something goes wrong that is caused by user error during the installation.** <br />
 Please remember that all features might not work properly, please read the log files included with your ISO to see which features have been removed.
 
@@ -12,6 +13,14 @@ Please remember that all features might not work properly, please read the log f
 - Testing
   * VMWare Workstation 15
 
+#### ISO Tasklist
+- [x] (IN PRGRESS) Windows 10 LTSB 1607
+- [ ] Windows 10 1709
+- [ ] Windows 10 1809
+- [ ] Windows 7 Latest SP
+- [ ] Windows 8.1
+
+#### Preinstalled Programs
 
 
 Custom made Windows ISO's, All of the ISO's are clean and are not infected.
