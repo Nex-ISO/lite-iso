@@ -9,8 +9,8 @@ Please remember that all features might not work properly, please read the log f
 - Bloat Reduction
   * Win Toolkit
   * NTLite 
-* NTLite
-* VMWare Workstation (For Testing)
+- Testing
+  * VMWare Workstation 15
 
 
 
