@@ -26,12 +26,21 @@ Please remember that all features might not work properly, please read the log f
 
 #### Pre-installed Program(s)
 * Firefox
+* StartIsBack++ (For Start Menu)
 * Activation Software (IF NEEDED)
 
-Custom made Windows ISO's, All of the ISO's are clean and are not infected.
+#### FAQ (not really)
+**Q:** Do your ISO's have those stupid looking cracked themes that looks absolutely horrendous?
+**A:** Nope, I don't change anything on the UI except for StartIsBack, since Windows Search and Cortana is disabled.
 
-All of the features removed will be included in a log text file.
+**Q:** Do I have to format everything?
+**A:** Yes! So if you have any important files, PLEASE back them up.
 
+**Q:** What ISO do you think is the best for performance?
+**A:** Windows 10 LTSB, since it's balanced (being Windows 10 while having the performance of Windows 7 Lite)
 
-
+**Q:** What features are removed from these ISO's?
+**A:** Your ISO will be in a zip file, the zip file includes:
+FeaturesRemoved.txt
+Windows[7/8.1/10/10 LTSB] Build [1607/1709/etc..] NexISO
 
