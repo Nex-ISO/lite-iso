@@ -1,5 +1,6 @@
 # Custom Windows 10 ISO's
-Custom made Windows ISO's, All of the ISO's are clean and are not infected. /n
+Custom made Windows ISO's, All of the ISO's are clean and are not infected.
+
 All of the features removed will be included in a log text file.
 
 # Notice
@@ -11,3 +12,5 @@ All of the features removed will be included in a log text file.
 Win Toolkit
 NTLite
 VMWare Workstation [FOR TESTING]
+
+
