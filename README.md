@@ -1,8 +1,8 @@
 # Custom Windows 10 ISO's
 
 #### Disclaimer
-This repository 
-**It is NOT my reponsibiliy if something goes wrong that is caused by user error during the installation.** 
+This repository includes Lite ISO's that I have made that you might want to check out.__
+**It is NOT my reponsibiliy if something goes wrong that is caused by user error during the installation.**__ 
 Please remember that all features might not work properly, please read the log files included with your ISO to see which features have been removed.
 
 #### Tools
