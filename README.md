@@ -6,7 +6,9 @@ This repository
 Please remember that all features might not work properly, please read the log files included with your ISO to see which features have been removed.
 
 #### Tools
-* Win Toolkit
+- Bloat Reduction
+  * Win Toolkit
+  * NTLite 
 * NTLite
 * VMWare Workstation (For Testing)
 
