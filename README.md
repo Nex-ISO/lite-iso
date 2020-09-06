@@ -2,10 +2,10 @@
 
 #### Disclaimer
 This repository 
-\ **It is NOT my reponsibiliy if something goes wrong that is caused by user error during the installation.** 
+**It is NOT my reponsibiliy if something goes wrong that is caused by user error during the installation.** 
 Please remember that all features might not work properly, please read the log files included with your ISO to see which features have been removed.
 
-#### Tools
+#### Tools:
 \- Win Toolkit
 \- NTLite
 \- VMWare Workstation [FOR TESTING]
