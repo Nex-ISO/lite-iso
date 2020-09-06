@@ -10,7 +10,10 @@ Please remember that all features might not work properly, please read the log f
 1: [Tools](https://github.com/Nex-ISO/lite-iso#tools) <br />
 2: [To Do](https://github.com/Nex-ISO/lite-iso#iso-tasklist) <br />
 3: [Pre-Installed Program(s)](https://github.com/Nex-ISO/lite-iso#preinstalled-programs) 
+
 #### Tools
+All of the tools I use for making these ISO's
+
 - Bloat Reduction
   * Win Toolkit
   * NTLite 
@@ -18,6 +21,8 @@ Please remember that all features might not work properly, please read the log f
   * VMWare Workstation 15
 
 #### To Do
+All of the ISO files I'm planning to work on.
+
 - [x] (IN PRGRESS) Windows 10 LTSB 1607
 - [ ] Windows 10 1709
 - [ ] Windows 10 1809
