@@ -9,9 +9,9 @@ Please remember that all features might not work properly, please read the log f
 #### Table of Contents
 1: [Tools](https://github.com/Nex-ISO/lite-iso#tools) <br />
 2: [To Do](https://github.com/Nex-ISO/lite-iso#iso-tasklist) <br />
-3: [Pre-Installed Program(s)](https://github.com/Nex-ISO/lite-iso#preinstalled-programs) 
-4: [FAQ](https://github.com/Nex-ISO/lite-iso/blob/master/README.md#faq-not-really)
-5: [Contact](https://github.com/Nex-ISO/lite-iso/blob/master/README.md#contact)
+3: [Pre-Installed Program(s)](https://github.com/Nex-ISO/lite-iso#preinstalled-programs) <br />
+4: [FAQ](https://github.com/Nex-ISO/lite-iso/blob/master/README.md#faq-not-really) <br />
+5: [Contact](https://github.com/Nex-ISO/lite-iso/blob/master/README.md#contact) <br />
 
 #### Tools
 All of the tools I use for making these ISO's
