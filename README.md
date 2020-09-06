@@ -6,9 +6,10 @@ This repository includes Lite ISO's that I have made that you might want to chec
 **It is NOT my reponsibiliy if something goes wrong that is caused by user error during the installation.** <br />
 Please remember that all features might not work properly, please read the log files included with your ISO to see which features have been removed.
 
-#### Table of Contents
+### Table of Contents
 1: [Tools](https://github.com/Nex-ISO/lite-iso#tools)
-2: [To Do]
+2: [To Do](https://github.com/Nex-ISO/lite-iso#iso-tasklist)
+
 #### Tools
 - Bloat Reduction
   * Win Toolkit
