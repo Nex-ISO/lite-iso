@@ -6,10 +6,10 @@ This repository includes Lite ISO's that I have made that you might want to chec
 **It is NOT my reponsibiliy if something goes wrong that is caused by user error during the installation.** <br />
 Please remember that all features might not work properly, please read the log files included with your ISO to see which features have been removed.
 
-### Table of Contents
-1: [Tools](https://github.com/Nex-ISO/lite-iso#tools)
-2: [To Do](https://github.com/Nex-ISO/lite-iso#iso-tasklist)
-
+#### Table of Contents
+1: [Tools](https://github.com/Nex-ISO/lite-iso#tools) <br />
+2: [To Do](https://github.com/Nex-ISO/lite-iso#iso-tasklist) <br />
+3: [Pre-Installed Program(s)](https://github.com/Nex-ISO/lite-iso#preinstalled-programs) 
 #### Tools
 - Bloat Reduction
   * Win Toolkit
@@ -24,7 +24,7 @@ Please remember that all features might not work properly, please read the log f
 - [ ] Windows 7 Latest SP
 - [ ] Windows 8.1
 
-#### Preinstalled Program(s)
+#### Pre-installed Program(s)
 * Firefox
 * Activation Software (IF NEEDED)
 
