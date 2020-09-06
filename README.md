@@ -32,8 +32,10 @@ All of the ISO files I'm planning to work on.
 - [ ] Windows 8.1
 
 #### Pre-installed Program(s)
+All Pre-installed programs that is included with your ISO. <br />
+Note that some of the software might be outdated. If StartIsBack is included with your installation, do NOT uninstall it.
 * Firefox
-* StartIsBack++ (For Start Menu)
+* StartIsBack++ (For Start Menu, IF NEEDED)
 * Activation Software (IF NEEDED)
 
 #### FAQ (not really)
