@@ -30,17 +30,21 @@ Please remember that all features might not work properly, please read the log f
 * Activation Software (IF NEEDED)
 
 #### FAQ (not really)
-**Q:** Do your ISO's have those stupid looking cracked themes that looks absolutely horrendous?
+**Q:** Do your ISO's have those stupid looking cracked themes that looks absolutely horrendous? <br />
 **A:** Nope, I don't change anything on the UI except for StartIsBack, since Windows Search and Cortana is disabled.
 
-**Q:** Do I have to format everything?
+**Q:** Do I have to format everything? <br />
 **A:** Yes! So if you have any important files, PLEASE back them up.
 
-**Q:** What ISO do you think is the best for performance?
+**Q:** What ISO do you think is the best for performance? <br />
 **A:** Windows 10 LTSB, since it's balanced (being Windows 10 while having the performance of Windows 7 Lite)
 
-**Q:** What features are removed from these ISO's?
-**A:** Your ISO will be in a zip file, the zip file includes:
-FeaturesRemoved.txt
-Windows[7/8.1/10/10 LTSB] Build [1607/1709/etc..] NexISO
+**Q:** What features are removed from these ISO's? <br />
+**A:** Your ISO will be in a zip file, the zip file includes: <br />
+* FeaturesRemoved.txt <br />
+* Windows[7/8.1/10/10 LTSB] Build [1607/1709/etc..] NexISO
+
+#### Contact
+Send me a Friend Request <br />
+Discord: nexira#9312
 
