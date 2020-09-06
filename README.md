@@ -45,11 +45,11 @@ All of the ISO files I'm planning to work on.
 **A:** Windows 10 LTSB, since it's balanced (being Windows 10 while having the performance of Windows 7 Lite)
 
 **Q:** What features are removed from these ISO's? <br />
-**A:** Your ISO will be in a zip file, the zip file includes: <br />
+**A:** Your ISO and removed features will be in a zip file, the zip file includes: <br />
 * FeaturesRemoved.txt <br />
-* Windows[7/8.1/10/10 LTSB] Build [1607/1709/etc..] NexISO
+* Windows[7/8.1/10/10 LTSB] Build [1607/1709/etc..] NexISO.iso
 
 #### Contact
-Send me a Friend Request <br />
+Send me a Friend Request! <br />
 Discord: nexira#9312
 
