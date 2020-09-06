@@ -6,10 +6,9 @@ This repository
 Please remember that all features might not work properly, please read the log files included with your ISO to see which features have been removed.
 
 #### Tools
-\- Win Toolkit
-&nbsp;
-\- NTLite
-\- VMWare Workstation [FOR TESTING]
+* Win Toolkit
+* NTLite
+* VMWare Workstation (For Testing)
 
 
 
