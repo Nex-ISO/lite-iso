@@ -1,6 +1,5 @@
 # Custom Windows 10 ISO's
-Custom made Windows ISO's, All of the ISO's are clean and are not infected.
-c
+Custom made Windows ISO's, All of the ISO's are clean and are not infected. /n
 All of the features removed will be included in a log text file.
 
 # Notice
